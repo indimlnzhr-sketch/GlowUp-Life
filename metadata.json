@@ -1,0 +1,12 @@
+{
+  "name": "GlowUp Life",
+  "description": "Smart daily life companion for self-improvement, health, mood tracking, and emergency safety.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
